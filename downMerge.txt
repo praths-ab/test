@@ -1,3 +1,4 @@
 down merge
 
+should conflict
 should conflict in branch
